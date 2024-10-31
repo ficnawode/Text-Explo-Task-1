@@ -8,7 +8,7 @@ Using the corpus of inaugural speeches, calculate the dot product and cosine sim
 
 # Results
 
-![dot product with function words](Dot_Product_with_Function_Words.png)
-![dot product without function words](Dot_Product_without_Function_Words.png)
-![cosine similarity with function words](Cosine_Similarity_with_Function_Words.png)
-![cosine similarity without function words](Cosine_Similarity_without_Function_Words.png)
+![dot product with function words](plots/Dot_Product_with_Function_Words.png)
+![dot product without function words](plots/Dot_Product_without_Function_Words.png)
+![cosine similarity with function words](plots/Cosine_Similarity_with_Function_Words.png)
+![cosine similarity without function words](plots/Cosine_Similarity_without_Function_Words.png)
